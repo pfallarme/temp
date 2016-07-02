@@ -33,6 +33,13 @@ div>div {
   margin: 1% 1% 1% 1%;
 }
 
+p {
+  margin: 0px 0px 0px 0px;
+  padding: 20px 20px 20px 20px;
+  float: left;
+  font-size: 10pt;
+}
+
 #menutitle1 {
 	background-color: pink;
 	color: black;
@@ -47,14 +54,6 @@ div>div {
 	background-color: #fcfdb1;
 	color: black;
 }
-
-p {
-  margin: 0px 0px 0px 0px;
-  padding: 20px 20px 20px 20px;
-  float: left;
-  font-size: 10pt;
-}
-
 
 /* Simple Responsive Framework. */
 .row {
