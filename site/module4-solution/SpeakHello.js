@@ -44,7 +44,7 @@
 
 (function (window) {
   var helloSpeaker = {};
-  var speakWord = "Hello ";
+  var speakWord = "Hello";
 	helloSpeaker.speak = function speak(name) {
 	  console.log(speakWord + " " + name);
 	}
